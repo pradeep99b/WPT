@@ -1,0 +1,64 @@
+// let countTill = 20;
+
+// let sum;
+
+// for (let i = 1; i <= countTill; i++) {
+//     sum += i;
+
+// }
+
+// console.log("Sum is ", sum);
+
+
+// for (let i = 1; i <= countTill; i++) {
+//     console.log("i = ", i);
+// }
+
+
+// for (let i = 1; i <= 10; i++) {
+//     console.log("Hello world");
+// }
+
+// console.log("Value of i is ", i);
+
+// for (var i = 1; i <= 10; i++) {
+//     console.log("Hello world");
+// }
+
+// console.log("Value of i is ", i);
+
+// for (i = 0; true; i++) {
+//     console.log("Value of i is ", i);
+// }
+
+// For-of lOOP
+
+// let firstName = "Pradeep Bahukhandi";
+// let count = 0;
+// for (let i of firstName) {
+//     console.log(i);
+//     count++;
+// }
+// console.log(count);
+
+// for-in
+
+
+const Pen = {
+
+    name: "Parker Jotter Standard CT Ball Pen",
+    discountedPrice: 270,
+    rating: 4,
+    mrp: 285,
+    discount: .05,
+    reviews: 7002
+
+
+
+
+}
+
+for (let key in Pen) {
+    console.log("Key :", key, " Value is :", Pen[key]);
+}
+
