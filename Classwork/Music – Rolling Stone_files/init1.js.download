@@ -1,0 +1,127 @@
+//<script>
+bouncex.init1Response({
+    "brand_styles": false,
+    "webfonts": false,
+    "cookie": {
+        "did": "4808117655615171362",
+        "vid": 1714538188384075,
+        "fvt": 1714482927,
+        "ao": 0,
+        "lp": "https%3A%2F%2Fwww.rollingstone.com%2Fmusic%2F",
+        "as": 0,
+        "vpv": 1,
+        "d": "d",
+        "r": "detailed.com",
+        "cvt": 1714538188,
+        "sid": -1,
+        "gcr": 78,
+        "m": 0,
+        "lvt": 1714538188
+    },
+    "debug": false,
+    "testmode": {
+        "bxtest": false,
+        "office": false,
+        "bxdev": false
+    },
+    "state": {
+        "newvid": true,
+        "iol": true,
+        "tn": 1714538188,
+        "pvid": 1,
+        "gdpr": false,
+        "casl": false,
+        "us": false,
+        "device": {
+            "browser": "Chrome",
+            "version": "124.0.0.0",
+            "platform": "Windows 10",
+            "device_type": "desktop"
+        },
+        "no_kinesis": true,
+        "request_token": "8255541fa4c50e53449971a7019261ac490246cefa37d832e7f24bc66c89608c",
+        "mobile": false,
+        "vip": "103.235.165.94",
+        "geo": {
+            "country": "IN",
+            "country_code": "IN",
+            "country_code3": "IND",
+            "country_name": "India",
+            "region": "HR",
+            "region_name": "Haryana",
+            "city": "Gurugram",
+            "postal_code": "122015",
+            "zip": "122015",
+            "area_code": "",
+            "dma_code": null,
+            "metro_code": null,
+            "continent_code": "AS",
+            "google": {
+                "zip": "",
+                "country": "IN",
+                "country_code": "IN",
+                "region": "HR",
+                "city": "Ambala",
+                "continent_code": "AS",
+                "country_name": "India",
+                "region_name": "Haryāna"
+            }
+        }
+    },
+    "gbi_stacks": false,
+    "creatives": false,
+    "campaigns": false,
+    "gbi2_enabled": true,
+    "ssp_config": {
+        "acuity": {
+            "reload": "300000",
+            "ssp_priority": 6
+        },
+        "index": {
+            "s": "1046838",
+            "qa_site_id": 167884,
+            "reload": 300000,
+            "stackWeight": 0,
+            "timeout": 2000,
+            "production": true,
+            "jsonp": true,
+            "ssp_priority": 458
+        },
+        "pbm": {
+            "desktop_id": "",
+            "mobile_id": "",
+            "publisher_id": "156512",
+            "qa_site_id": "248764",
+            "reload": 300000,
+            "timeout": 2000,
+            "endpoint": "hbopenbid.pubmatic.com\/translator?",
+            "user_sync_endpoint": "ads.pubmatic.com\/AdServer\/js\/user_sync.html",
+            "ssp_priority": 1
+        },
+        "criteo": {
+            "network_id": "11254",
+            "ssp_priority": 5
+        },
+        "magnite": {
+            "reload": "300000",
+            "site_id": "",
+            "zone_id": "",
+            "ssp_priority": 7
+        }
+    },
+    "push_filepath": "\/",
+    "sms_enabled": false,
+    "sms_terms_conditions_link": "",
+    "sms_short_codes": [],
+    "brand_name": "",
+    "ads_config": {
+        "freqCapEnabled": false,
+        "sourcePartner": "amazon",
+        "cpmSensitivity": "3",
+        "cpmNotes": ""
+    },
+    "visit_cookie_updates": {
+        "is_go_session": false,
+        "is_gp_session": false
+    }
+});
